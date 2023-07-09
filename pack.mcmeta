@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"pack_format": 10,
+		"description": "Drop player head when killed by Powered Creeper"
+	}
+}
